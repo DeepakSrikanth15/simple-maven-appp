@@ -25,7 +25,7 @@ spec:
  selector:
  app: java-app
  ports:
- - port: 80
+ - port: 90
  targetPort: 9000
  nodePort: 30008
 After crea
