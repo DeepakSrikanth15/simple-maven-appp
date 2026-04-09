@@ -14,7 +14,7 @@ replicas: 2
  spec:
  containers:
  - name: java-app
- image: <dockerhub-username>/java-app:latest
+ image: deepaksrikanth15/java-app:latest
 ---
 apiVersion: v1
 kind: Service
